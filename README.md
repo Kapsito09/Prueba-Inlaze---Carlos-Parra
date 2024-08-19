@@ -27,3 +27,7 @@ Podras encontrarlos en la página: https://lilac-giver-33f.notion.site/Prueba-QA
 #### Casos de prueba: Estan relacionados según la vista:
 ![image](https://github.com/user-attachments/assets/09e53cd6-e8d4-4eda-9c69-75a487614c32)
 
+#### Bugs Creados: Estan relacionados al TC:
+![image](https://github.com/user-attachments/assets/d089108c-d118-4461-9d1a-46e93cfb9b9a)
+
+
