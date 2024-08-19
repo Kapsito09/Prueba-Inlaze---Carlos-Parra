@@ -1,3 +1,8 @@
+### Requisitos
+* Instalar node.js
+* Instalar visuali studio code
+* Instalar Git
+
 ### Pasos para utilizar el proyecto
 1. En documentos crear una carpeta, por ejemplo: Cypress
 2. En la carpeta Cypress realizas pull del proyecto
