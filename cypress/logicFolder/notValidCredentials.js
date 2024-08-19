@@ -5,8 +5,8 @@ class notValidCredentials {
     typeFullNameWithNumber = () => elements.inputFullName().type(Cypress.env('fullNameWithNumber'));
     typeFullNameNotLimit = () => elements.inputFullName().type(Cypress.env('fullNameWithSeventyDates'));
     typeEmailNotFormat = () => elements.inputEmail().type(Cypress.env('emailNotCorrect'));
-    typePasswordNotNumber = () => elements.inputPassword().type(Cypress.env('passwordNotSymbol'));
-    typeConfirmPasswordNotNumber = () => elements.inputConfirmPassword().type(Cypress.env('passwordNotSymbol'));
+    typePasswordNotSymbol = () => elements.inputPassword().type(Cypress.env('passwordNotSymbol'));
+    typeConfirmPasswordNotSymbol = () => elements.inputConfirmPassword().type(Cypress.env('passwordNotSymbol'));
     typePasswordNotMay = () => elements.inputPassword().type(Cypress.env('passwordNotMay'));
     typeConfirmPasswordNotMay = () => elements.inputConfirmPassword().type(Cypress.env('passwordNotMay'));
     typePasswordNotNumber = () => elements.inputPassword().type(Cypress.env('passwordNotNumber'));

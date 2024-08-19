@@ -78,8 +78,8 @@ describe('Pruebas Inlaze', () => {
         action.clickAnchor();
         validCredentials.typeFullName();
         validCredentials.typeEmail();
-        notValidCredentials.typePasswordNotNumber();
-        notValidCredentials.typeConfirmPasswordNotNumber();
+        notValidCredentials.typePasswordNotSymbol();
+        notValidCredentials.typeConfirmPasswordNotSymbol();
         action.clickViewPassword();
         action.ButtonSubmitDisabled();
     });
